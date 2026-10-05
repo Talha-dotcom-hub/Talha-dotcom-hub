@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Talha
+# 👋 Hi, Myself
 
 <img src="./assets/hero.gif" alt="Animated Talha GitHub profile hero" width="100%" />
 
