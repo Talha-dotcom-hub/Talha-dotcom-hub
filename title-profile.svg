@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="38" viewBox="0 0 210 38" role="img" aria-label="01 / PROFILE">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF365D"/>
+      <stop offset="100%" stop-color="#B026FF"/>
+    </linearGradient>
+    <filter id="softGlow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="5" width="3" height="24" rx="1" fill="url(#neon)"/>
+  <text x="14" y="23" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="1.1" fill="url(#neon)" filter="url(#softGlow)">01 / PROFILE</text>
+  <path d="M14 32 H208" stroke="url(#neon)" stroke-opacity="0.45" stroke-width="1"/>
+</svg>
