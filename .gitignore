@@ -1,3 +1,36 @@
-Thumbs.db
+# Operating system files
 .DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
 *.tmp
+*.bak
+
+# Local secrets and environment files — never commit credentials
+.env
+.env.*
+!.env.example
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Node / frontend build output
+node_modules/
+dist/
+build/
+
+# Keep profile images and animations in assets/ tracked by Git.
+# Do not add assets/ or *.gif / *.svg to this file.
