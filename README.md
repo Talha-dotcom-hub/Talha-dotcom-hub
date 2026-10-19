@@ -5,7 +5,7 @@
   <p><sub>SOFTWARE ENGINEERING STUDENT&nbsp; · &nbsp;PYTHON&nbsp; · &nbsp;DATA ANALYTICS&nbsp; · &nbsp;BACKEND&nbsp; · &nbsp;AI</sub></p>
 
   <a href="https://github.com/Talha-dotcom-hub"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-151018?style=flat-square&amp;logo=github&amp;logoColor=FF365D" /></a>
-  <a href="https://www.linkedin.com/in/talha-dev-pk"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-151018?style=flat-square&amp;logo=linkedin&amp;logoColor=B026FF" /></a>
+  <a href="https://www.linkedin.com/in/talha-dev-pk"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-151018?style=flat-square&amp;logo=linkedin&amp;logoColor=FF365D" /></a>
 
   <img src="assets/kilnwave-ticker.gif" alt="Python, SQL, data analytics, AI and software engineering ticker" width="100%" />
 
@@ -61,7 +61,11 @@ I enjoy turning raw data into meaningful insights, building useful software arou
 I'm open to **learning opportunities, collaboration, interesting projects, software engineering, and data analytics**.
 
 <p>
-  <a href="https://www.linkedin.com/in/talha-dev-pk"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-151018?style=flat-square&amp;logo=linkedin&amp;logoColor=B026FF" /></a>
+  <a href="https://www.linkedin.com/in/talha-dev-pk">
+  <img src="assets/connect-linkedin.svg"
+       alt="Connect on LinkedIn"
+       width="310" />
+</a>
   <a href="https://github.com/Talha-dotcom-hub"><img alt="Explore GitHub" src="https://img.shields.io/badge/EXPLORE_GITHUB-151018?style=flat-square&amp;logo=github&amp;logoColor=FF365D" /></a>
 </p>
 
