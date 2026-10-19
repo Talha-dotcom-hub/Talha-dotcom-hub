@@ -1,76 +1,51 @@
 <div align="center">
-
-# 👋 Hi, Myself
-
-<img src="./assets/hero.gif" alt="Animated Talha GitHub profile hero" width="100%" />
-
-### Software Engineering Student • Python • Data Analytics • AI
-
-I build practical, data-driven software and explore how AI can make real analytical workflows faster, clearer, and more useful.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Talha--dotcom--hub-0b1118?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talha-dotcom-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-dev-pk)
-
+<img src="./kilnwave-header.gif" alt="Talha — software engineering, data and AI" width="100%" />
+<sub>SOFTWARE ENGINEERING STUDENT  ·  PYTHON  ·  DATA ANALYTICS  ·  AI</sub>
+![GitHub](https://img.shields.io/badge/GITHUB-151018?style=flat-square&logo=github&logoColor=FF365D)
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-151018?style=flat-square&logo=linkedin&logoColor=B026FF)
+<img src="./kilnwave-ticker.gif" alt="Python, SQL, data analytics, AI and software engineering ticker" width="100%" />
 </div>
-
-## 🧭 About Me
-
-<img src="./assets/about-life.gif" alt="Animated About Talha panel" width="100%" />
-
-I'm a **BS Software Engineering student from Pakistan** focused on building practical applications across **Python, Data Analytics, Backend Development, and AI**.
-
+<p align="left"><img src="./title-profile.svg" alt="01 / PROFILE" width="210" /></p>
+I'm a BS Software Engineering student from Pakistan focused on building practical applications across Python, Data Analytics, Backend Development, and AI.
 I enjoy turning raw data into meaningful insights, building useful software around those insights, and learning the engineering required to move from an idea to a working product.
-
-## 🛠️ Tech Stack
-
-<img src="./assets/stack.gif" alt="Animated tech stack panel" width="100%" />
-
-### Languages & Querying
-
-![Python](https://img.shields.io/badge/Python-0b1118?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0b1118?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1118?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b1118?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-### Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-0b1118?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0b1118?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0b1118?style=for-the-badge&logo=matplotlib&logoColor=11557C)
-
-### Web, Backend & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-0b1118?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0b1118?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-0b1118?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0b1118?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 Data Analysis Skills
-
-- Data profiling and quality assessment
-- Exploratory Data Analysis (EDA)
-- Missing-value and duplicate detection
-- Data validation and consistency checks
-- Aggregation, filtering, ranking, and segmentation
-- Trend and time-series analysis
-- Outlier detection using IQR-based methods
-- Correlation analysis
-- Visualization and dashboard-oriented reporting
-- Turning analytical results into clear business insights
-- AI-assisted analytics workflows
-
-## 🌐 Let's Connect
-
-<img src="./assets/connect.gif" alt="Animated LinkedIn connection panel" width="100%" />
-
-I'd be glad to connect for **learning opportunities, collaboration, interesting projects, software engineering, and data analytics**.
-
-### 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/talha-dev-pk)
-
+<p align="left"><img src="./title-work.svg" alt="02 / SELECTED WORK" width="300" /></p>
+<img src="./kilnwave-spectrum.gif" alt="Animated signal visualization representing analytical workflows" width="100%" />
+Project	What it explores	Links
+RepoPulse	A GitHub repository intelligence and analytics platform for exploring repository metadata, languages, activity, contributors, issues, releases and more.	Repository
+DataLensLab	An AI-assisted data analysis experience focused on making dataset workflows clearer and more useful.	Live app
+E-Commerce Customer Retention	An end-to-end RFM and customer-retention dashboard built with Python, Pandas, SQL and Streamlit.	Repository · Live demo
+<p align="left"><img src="./title-toolkit.svg" alt="03 / TOOLKIT" width="210" /></p>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-151018?style=flat-square&logo=python&logoColor=FF365D" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-151018?style=flat-square&logo=postgresql&logoColor=B026FF" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-151018?style=flat-square&logo=javascript&logoColor=FF365D" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-151018?style=flat-square&logo=typescript&logoColor=B026FF" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-151018?style=flat-square&logo=pandas&logoColor=FF365D" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-151018?style=flat-square&logo=numpy&logoColor=B026FF" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-151018?style=flat-square&logo=matplotlib&logoColor=FF365D" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-151018?style=flat-square&logo=html5&logoColor=B026FF" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-151018?style=flat-square&logo=css3&logoColor=FF365D" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-151018?style=flat-square&logo=git&logoColor=B026FF" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-151018?style=flat-square&logo=github&logoColor=FF365D" />
+</p>
+<p align="left"><img src="./title-analysis.svg" alt="04 / DATA ANALYSIS" width="330" /></p>
+Data profiling and quality assessment
+Exploratory Data Analysis (EDA)
+Missing-value and duplicate detection
+Data validation and consistency checks
+Aggregation, filtering, ranking, and segmentation
+Trend and time-series analysis
+IQR-based outlier detection and correlation analysis
+Visualization and dashboard-oriented reporting
+Translating analytical results into clear business insights
+AI-assisted analytics workflows
+<p align="left"><img src="./title-connect.svg" alt="05 / LET'S CONNECT" width="300" /></p>
+I'm open to learning opportunities, collaboration, interesting projects, software engineering, and data analytics.
+<p>
+  <a href="https://www.linkedin.com/in/talha-dev-pk"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FF365D?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Talha-dotcom-hub"><img alt="Explore GitHub" src="https://img.shields.io/badge/EXPLORE_GITHUB-B026FF?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+---
 <div align="center">
-
-### Thanks for visiting 👋
-
-*Built with curiosity, code, data, and a lot of debugging.*
-
+<sub>BUILT WITH CURIOSITY, CODE, DATA, AND A LOT OF DEBUGGING.</sub>
 </div>
