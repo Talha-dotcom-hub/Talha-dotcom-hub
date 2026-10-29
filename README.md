@@ -140,51 +140,82 @@ Value readable code, thoughtful iteration, and learning by building.
 
 ## `03` - Data & analytical thinking
 
-I approach data analysis as a process: understand the data, investigate what it reveals, and communicate findings clearly.
-
 <table>
 <tr>
-<td align="center" width="33%" valign="top">
+<td colspan="3" align="center" bgcolor="#151A12">
 
-**01 / EXPLORE**
+<img src="https://img.shields.io/badge/MY_ANALYTICAL_WORKFLOW-D8FF3E?style=for-the-badge&labelColor=151A12" alt="My analytical workflow"/>
 
----
+<br/>
 
-### Understand
-
-Examine the dataset, its structure, completeness, and quality before drawing conclusions.
+I turn raw data into structured analysis and actionable insights.
 
 </td>
-<td align="center" width="33%" valign="top">
+</tr>
+<tr>
+<td align="center" width="33%" valign="top" bgcolor="#111610">
 
-**02 / ANALYZE**
+<img src="https://img.shields.io/badge/01-EXPLORE-D8FF3E?style=for-the-badge&labelColor=202719" alt="01 Explore"/>
+
+<br/><br/>
+
+### Understand the data
 
 ---
 
-### Investigate
+Identify the structure, completeness, quality, and limitations of a dataset before analysis.
 
-Use filtering, aggregation, segmentation, and statistical exploration to identify patterns and anomalies.
+<br/>
+
+<sub>DATA QUALITY / EDA</sub>
 
 </td>
-<td align="center" width="33%" valign="top">
+<td align="center" width="33%" valign="top" bgcolor="#151A12">
 
-**03 / COMMUNICATE**
+<img src="https://img.shields.io/badge/02-ANALYZE-D8FF3E?style=for-the-badge&labelColor=202719" alt="02 Analyze"/>
+
+<br/><br/>
+
+### Find the signal
 
 ---
 
-### Explain
+Use filtering, aggregation, segmentation, and statistical exploration to uncover patterns.
 
-Turn analytical findings into clear, useful insights that support better-informed decisions.
+<br/>
+
+<sub>TRENDS / PATTERNS</sub>
+
+</td>
+<td align="center" width="33%" valign="top" bgcolor="#111610">
+
+<img src="https://img.shields.io/badge/03-COMMUNICATE-D8FF3E?style=for-the-badge&labelColor=202719" alt="03 Communicate"/>
+
+<br/><br/>
+
+### Deliver insights
+
+---
+
+Translate findings into clear explanations that help people make better-informed decisions.
+
+<br/>
+
+<sub>REPORTING / DECISIONS</sub>
 
 </td>
 </tr>
 </table>
 
-**AREAS I WORK WITH**
+<br/>
+
+### `//` Analytical toolkit
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/DATA_QUALITY-202719?style=flat-square&labelColor=D8FF3E" alt="Data quality"/>
 
 - Exploratory Data Analysis (EDA)
 - Missing-value and duplicate detection
@@ -193,6 +224,8 @@ Turn analytical findings into clear, useful insights that support better-informe
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/INSIGHT_DISCOVERY-202719?style=flat-square&labelColor=D8FF3E" alt="Insight discovery"/>
 
 - Trend and outlier detection
 - Correlation analysis
@@ -205,7 +238,7 @@ Turn analytical findings into clear, useful insights that support better-informe
 
 <div align="center">
 
-<sub>GOOD ANALYSIS DOES MORE THAN FIND PATTERNS - IT HELPS PEOPLE MAKE BETTER DECISIONS.</sub>
+<sub>01 — UNDERSTAND &nbsp; / &nbsp; 02 — INVESTIGATE &nbsp; / &nbsp; 03 — COMMUNICATE</sub>
 
 </div>
 
