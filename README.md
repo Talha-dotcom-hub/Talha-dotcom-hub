@@ -34,62 +34,76 @@
 
 ## `01` - A little about me
 
-<div align="center">
+<table>
+<tr>
+<td bgcolor="#151A12" align="center">
+
+<img src="https://img.shields.io/badge/PROFILE-01-D8FF3E?style=for-the-badge&labelColor=202719" alt="Profile section 01"/>
+
+<br/><br/>
+
+# M Talha Iftikhar
 
 ### SOFTWARE ENGINEERING  /  DATA  /  AI
 
-I'm **M Talha Iftikhar**, a Software Engineering student interested in turning data, code, and emerging AI capabilities into practical solutions.
+I'm a Software Engineering student interested in turning data, software development, and practical AI into useful solutions.
 
-I enjoy understanding problems, discovering patterns in data, and building applications that are useful, reliable, and thoughtfully designed.
+<br/>
 
-</div>
+<sub>ANALYZE WITH CURIOSITY. BUILD WITH PURPOSE.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#111610">
 
-**01 / AREAS I EXPLORE**
+<img src="https://img.shields.io/badge/01-AREAS_I_EXPLORE-D8FF3E?style=for-the-badge&labelColor=202719" alt="Areas I explore"/>
+
+<br/><br/>
+
+### Data analytics
+
+Explore datasets, validate data quality, and discover meaningful patterns.
 
 ---
 
-**DATA ANALYTICS**
+### Python & problem solving
 
-Exploring datasets, validating data quality, and identifying meaningful patterns.
+Investigate problems using structured thinking, data processing, and practical Python solutions.
 
-<br/>
+---
 
-**PYTHON & PROBLEM SOLVING**
+### Software development
 
-Using structured thinking and Python to investigate problems and build solutions.
-
-<br/>
-
-**SOFTWARE DEVELOPMENT**
-
-Developing application workflows, backend logic, and practical tools.
+Build application workflows, backend logic, and useful tools.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#151A12">
 
-**02 / HOW I WORK**
+<img src="https://img.shields.io/badge/02-HOW_I_WORK-D8FF3E?style=for-the-badge&labelColor=202719" alt="How I work"/>
+
+<br/><br/>
+
+### Think analytically
+
+Break complex problems into smaller questions and examine the evidence.
 
 ---
 
-**ANALYTICAL THINKING**
+### Focus on outcomes
 
-Break problems into smaller questions and examine the evidence.
+Prioritize practical solutions, readable code, and maintainable implementation.
 
-<br/>
+---
 
-**PRACTICAL EXECUTION**
+### Improve continuously
 
-Focus on useful outcomes rather than unnecessary complexity.
-
-<br/>
-
-**CONTINUOUS IMPROVEMENT**
-
-Value readable code, thoughtful iteration, and learning by building.
+Learn by building, testing ideas, and refining the result through iteration.
 
 </td>
 </tr>
@@ -97,7 +111,7 @@ Value readable code, thoughtful iteration, and learning by building.
 
 <div align="center">
 
-<sub>UNDERSTAND THE PROBLEM. BUILD WITH PURPOSE. KEEP IMPROVING.</sub>
+<sub>UNDERSTAND  /  BUILD  /  IMPROVE</sub>
 
 </div>
 
