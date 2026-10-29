@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+<title id="title">E-Commerce Retention — project preview</title><desc id="desc">Customer cohort and RFM analytics dashboard Abstract illustrative graphic, not a screenshot of the live application.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10120E"/><stop offset="1" stop-color="#202719"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D8FF3E"/><stop offset="1" stop-color="#A7C72C"/></linearGradient></defs>
+<rect width="1000" height="240" rx="16" fill="url(#bg)"/><rect x="24" y="24" width="5" height="192" rx="2" fill="url(#accent)"/>
+<text x="55" y="70" fill="#D8FF3E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">04 / BUSINESS INTELLIGENCE</text>
+<text x="55" y="116" fill="#F5F7EF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">E-Commerce Retention</text>
+<text x="55" y="151" fill="#B8C0AC" font-family="Arial, Helvetica, sans-serif" font-size="17">Customer cohort and RFM analytics dashboard</text>
+<text x="55" y="193" fill="#7D886C" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">ILLUSTRATIVE PROJECT GRAPHIC</text>
+<circle cx="770" cy="120" r="54" fill="#D8FF3E" opacity=".08" stroke="#D8FF3E" stroke-width="2"/><circle cx="770" cy="120" r="28" fill="none" stroke="#D8FF3E" stroke-width="2"/><path d="M770 66 V92 M770 148 V174 M716 120 H742 M798 120 H824 M732 82 L750 100 M790 140 L808 158 M808 82 L790 100 M750 140 L732 158" stroke="#D8FF3E" stroke-width="3" stroke-linecap="round"/><rect x="650" y="38" width="300" height="164" rx="12" fill="none" stroke="#566044" stroke-opacity=".6"/>
+</svg>

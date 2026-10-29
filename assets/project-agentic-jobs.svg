@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+<title id="title">Agentic Jobs — project preview</title><desc id="desc">Resume-aware job discovery and application tracking Abstract illustrative graphic, not a screenshot of the live application.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10120E"/><stop offset="1" stop-color="#202719"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D8FF3E"/><stop offset="1" stop-color="#A7C72C"/></linearGradient></defs>
+<rect width="1000" height="240" rx="16" fill="url(#bg)"/><rect x="24" y="24" width="5" height="192" rx="2" fill="url(#accent)"/>
+<text x="55" y="70" fill="#D8FF3E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">03 / APPLIED AI</text>
+<text x="55" y="116" fill="#F5F7EF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Agentic Jobs</text>
+<text x="55" y="151" fill="#B8C0AC" font-family="Arial, Helvetica, sans-serif" font-size="17">Resume-aware job discovery and application tracking</text>
+<text x="55" y="193" fill="#7D886C" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">ILLUSTRATIVE PROJECT GRAPHIC</text>
+<rect x="680" y="70" width="205" height="32" rx="7" fill="#D8FF3E" opacity=".9"/><rect x="680" y="115" width="165" height="24" rx="6" fill="#D8FF3E" opacity=".45"/><rect x="680" y="151" width="185" height="24" rx="6" fill="#D8FF3E" opacity=".25"/><circle cx="864" cy="127" r="13" fill="none" stroke="#D8FF3E" stroke-width="2"/><rect x="650" y="38" width="300" height="164" rx="12" fill="none" stroke="#566044" stroke-opacity=".6"/>
+</svg>
