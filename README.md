@@ -32,41 +32,76 @@
 
 ---
 
-## `01` — A little about me
+## `01` - A little about me
 
-Hey, I'm **M Talha Iftikhar** — a Software Engineering student interested in the intersection of **data, software development, and artificial intelligence**.
+<div align="center">
 
-I enjoy exploring datasets, understanding patterns, building practical applications, and turning technical ideas into useful solutions.
+### SOFTWARE ENGINEERING  /  DATA  /  AI
 
-My approach is simple: understand the problem, work with the data, build thoughtfully, and keep improving.
+I'm **M Talha Iftikhar**, a Software Engineering student interested in turning data, code, and emerging AI capabilities into practical solutions.
+
+I enjoy understanding problems, discovering patterns in data, and building applications that are useful, reliable, and thoughtfully designed.
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**WHAT I EXPLORE**
+**01 / AREAS I EXPLORE**
 
-- Data analysis and exploratory analysis
-- Python-based problem solving
-- Data cleaning and validation
-- Backend and application development
+---
+
+**DATA ANALYTICS**
+
+Exploring datasets, validating data quality, and identifying meaningful patterns.
+
+<br/>
+
+**PYTHON & PROBLEM SOLVING**
+
+Using structured thinking and Python to investigate problems and build solutions.
+
+<br/>
+
+**SOFTWARE DEVELOPMENT**
+
+Developing application workflows, backend logic, and practical tools.
 
 </td>
 <td width="50%" valign="top">
 
-**HOW I APPROACH WORK**
+**02 / HOW I WORK**
 
-- Think analytically
-- Focus on practical outcomes
-- Value readable, maintainable code
-- Learn through building and iteration
+---
+
+**ANALYTICAL THINKING**
+
+Break problems into smaller questions and examine the evidence.
+
+<br/>
+
+**PRACTICAL EXECUTION**
+
+Focus on useful outcomes rather than unnecessary complexity.
+
+<br/>
+
+**CONTINUOUS IMPROVEMENT**
+
+Value readable code, thoughtful iteration, and learning by building.
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
+<sub>UNDERSTAND THE PROBLEM. BUILD WITH PURPOSE. KEEP IMPROVING.</sub>
+
+</div>
+
+---
 ## `02` — Technical toolkit
 
 <div align="center">
@@ -103,59 +138,78 @@ My approach is simple: understand the problem, work with the data, build thought
 
 ---
 
-## `03` — Data & analytical thinking
+## `03` - Data & analytical thinking
 
-<div align="center">
+I approach data analysis as a process: understand the data, investigate what it reveals, and communicate findings clearly.
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-**01**
+**01 / EXPLORE**
 
-### Explore
+---
 
-Understand the dataset, its structure, and its quality.
+### Understand
 
-</td>
-<td align="center" width="33%">
-
-**02**
-
-### Analyze
-
-Identify patterns, relationships, trends, and anomalies.
+Examine the dataset, its structure, completeness, and quality before drawing conclusions.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-**03**
+**02 / ANALYZE**
 
-### Communicate
+---
 
-Turn analytical findings into clear, useful insights.
+### Investigate
+
+Use filtering, aggregation, segmentation, and statistical exploration to identify patterns and anomalies.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+**03 / COMMUNICATE**
+
+---
+
+### Explain
+
+Turn analytical findings into clear, useful insights that support better-informed decisions.
 
 </td>
 </tr>
 </table>
 
-</div>
+**AREAS I WORK WITH**
 
-My analytical interests include:
+<table>
+<tr>
+<td width="50%" valign="top">
 
 - Exploratory Data Analysis (EDA)
 - Missing-value and duplicate detection
 - Data quality and consistency checks
-- Filtering, grouping, aggregation, and segmentation
-- Trend analysis and outlier detection
+- Filtering, grouping, and aggregation
+
+</td>
+<td width="50%" valign="top">
+
+- Trend and outlier detection
 - Correlation analysis
-- Dashboard-oriented reporting
+- Segmentation and dashboard reporting
 - AI-assisted analytical workflows
 
-I believe analysis is most valuable when it helps someone understand a problem or make a better-informed decision.
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>GOOD ANALYSIS DOES MORE THAN FIND PATTERNS - IT HELPS PEOPLE MAKE BETTER DECISIONS.</sub>
+
+</div>
 
 ---
-
 ## `04` — Current direction
 
 <div align="center">
