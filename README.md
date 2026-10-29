@@ -1,76 +1,196 @@
+<!-- =========================================================
+     M TALHA IFTIKHAR — GITHUB PROFILE README
+     Visual direction: Dark editorial / Neon lime / Minimal
+     No repository cards or project listings
+========================================================== -->
+
 <div align="center">
 
-  <img src="assets/kilnwave-header.gif" alt="Talha — Software Engineering, Data and AI" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:10120E,100:202719&text=M%20TALHA%20IFTIKHAR&fontColor=D8FF3E&fontSize=43&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%2F%20DATA%20ANALYTICS%20%2F%20AI&descSize=12&descAlignY=67&animation=fadeIn" alt="M Talha Iftikhar — profile banner"/>
 
-  <p><sub>SOFTWARE ENGINEERING STUDENT&nbsp; · &nbsp;PYTHON&nbsp; · &nbsp;DATA ANALYTICS&nbsp; · &nbsp;BACKEND&nbsp; · &nbsp;AI</sub></p>
+<br/>
 
-  <a href="https://github.com/Talha-dotcom-hub"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-151018?style=flat-square&amp;logo=github&amp;logoColor=FF365D" /></a>
-  <a href="https://www.linkedin.com/in/talha-dev-pk"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-151018?style=flat-square&amp;logo=linkedin&amp;logoColor=FF365D" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=D8FF3E&center=true&vCenter=true&width=620&lines=Turning+data+into+meaningful+insights.;Building+practical+software+with+Python.;Exploring+AI%2C+analytics+and+backend+systems.;Learning.+Building.+Improving." alt="Animated introduction"/>
 
-  <img src="assets/kilnwave-ticker.gif" alt="Python, SQL, data analytics, AI and software engineering ticker" width="100%" />
+<br/>
+
+<a href="https://www.linkedin.com/in/talha-dev-pk/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-D8FF3E?style=flat-square&logo=linkedin&logoColor=10120E" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/Talha-dotcom-hub">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE-202719?style=flat-square&logo=github&logoColor=D8FF3E" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BASED%20IN-PAKISTAN-202719?style=flat-square&labelColor=10120E" alt="Based in Pakistan"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20SOFTWARE-D8FF3E?style=flat-square&labelColor=10120E" alt="Data and software focus"/>
 
 </div>
 
-<p align="left"><img src="assets/title-profile.svg" alt="01 / PROFILE" width="210" /></p>
+---
 
-I'm a **BS Software Engineering student from Pakistan** focused on building practical applications across **Python, Data Analytics, Backend Development, and AI**.
+## `01` — A little about me
 
-I enjoy turning raw data into meaningful insights, building useful software around those insights, and learning the engineering required to move from an idea to a working product.
+Hey, I'm **M Talha Iftikhar** — a Software Engineering student interested in the intersection of **data, software development, and artificial intelligence**.
 
-<p align="left"><img src="assets/title-work.svg" alt="02 / SELECTED WORK" width="300" /></p>
+I enjoy exploring datasets, understanding patterns, building practical applications, and turning technical ideas into useful solutions.
 
-<img src="assets/kilnwave-spectrum.gif" alt="Animated signal visualization representing analytical workflows" width="100%" />
+My approach is simple: understand the problem, work with the data, build thoughtfully, and keep improving.
 
-| Project | What it explores | Links |
-|---|---|---|
-| **RepoPulse** | A GitHub repository intelligence and analytics platform for exploring repository metadata, languages, activity, contributors, issues, releases and more. | [Repository](https://github.com/Talha-dotcom-hub/RepoPulse) |
-| **DataLensLab** | An AI-assisted data analysis experience focused on making dataset workflows clearer and more useful. | [Live app](https://datalenslab.netlify.app/) |
-| **E-Commerce Customer Retention** | An end-to-end RFM and customer-retention dashboard built with Python, Pandas, SQL and Streamlit. | [Repository](https://github.com/Talha-dotcom-hub/ecommerce-customer-retention) · [Live demo](https://talha-ecommerce-retention.streamlit.app/) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left"><img src="assets/title-toolkit.svg" alt="03 / TOOLKIT" width="210" /></p>
+**WHAT I EXPLORE**
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-151018?style=flat-square&amp;logo=python&amp;logoColor=FF365D" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-151018?style=flat-square&amp;logo=postgresql&amp;logoColor=B026FF" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-151018?style=flat-square&amp;logo=javascript&amp;logoColor=FF365D" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-151018?style=flat-square&amp;logo=typescript&amp;logoColor=B026FF" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-151018?style=flat-square&amp;logo=pandas&amp;logoColor=FF365D" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-151018?style=flat-square&amp;logo=numpy&amp;logoColor=B026FF" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-151018?style=flat-square&amp;logo=matplotlib&amp;logoColor=B026FF" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-151018?style=flat-square&amp;logo=html5&amp;logoColor=FF365D" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-151018?style=flat-square&amp;logo=css3&amp;logoColor=B026FF" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-151018?style=flat-square&amp;logo=git&amp;logoColor=FF365D" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-151018?style=flat-square&amp;logo=github&amp;logoColor=B026FF" />
-</p>
+- Data analysis and exploratory analysis
+- Python-based problem solving
+- Data cleaning and validation
+- Backend and application development
 
-<p align="left"><img src="assets/title-analysis.svg" alt="04 / DATA ANALYSIS" width="330" /></p>
+</td>
+<td width="50%" valign="top">
 
-- Data profiling and quality assessment
-- Exploratory Data Analysis (EDA)
-- Missing-value and duplicate detection
-- Data validation and consistency checks
-- Aggregation, filtering, ranking, and segmentation
-- Trend and time-series analysis
-- IQR-based outlier detection and correlation analysis
-- Visualization and dashboard-oriented reporting
-- Translating analytical results into clear business insights
-- AI-assisted analytics workflows
+**HOW I APPROACH WORK**
 
-<p align="left"><img src="assets/title-connect.svg" alt="05 / LET'S CONNECT" width="300" /></p>
+- Think analytically
+- Focus on practical outcomes
+- Value readable, maintainable code
+- Learn through building and iteration
 
-I'm open to **learning opportunities, collaboration, interesting projects, software engineering, and data analytics**.
-
-<p>
-  <a href="https://www.linkedin.com/in/talha-dev-pk">
-  <img src="assets/connect-linkedin.svg"
-       alt="Connect on LinkedIn"
-       width="310" />
-</a>
-  <a href="https://github.com/Talha-dotcom-hub"><img alt="Explore GitHub" src="https://img.shields.io/badge/EXPLORE_GITHUB-151018?style=flat-square&amp;logo=github&amp;logoColor=FF365D" /></a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
+## `02` — Technical toolkit
+
 <div align="center">
-  <sub>BUILT WITH CURIOSITY, CODE, DATA, AND A LOT OF DEBUGGING.</sub>
+
+**LANGUAGES & DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github&theme=dark" alt="Programming and development tools"/>
+
+<br/><br/>
+
+**DATA, DATABASES & PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,vscode&theme=dark" alt="Databases and development platforms"/>
+
+</div>
+
+<details>
+<summary><b>Explore my areas of interest</b></summary>
+
+<br/>
+
+| Area | Focus |
+|---|---|
+| Python | Data processing, scripting, problem solving |
+| Data analytics | Data cleaning, exploration, trends and insights |
+| SQL | Querying, filtering, aggregation and relational data |
+| Visualization | Communicating findings through charts and dashboards |
+| Web development | Interfaces, application workflows and responsive design |
+| Backend systems | APIs, data handling and application logic |
+| AI | Exploring practical AI-assisted workflows |
+| Developer tools | Git, GitHub, debugging and iterative improvement |
+
+</details>
+
+---
+
+## `03` — Data & analytical thinking
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**01**
+
+### Explore
+
+Understand the dataset, its structure, and its quality.
+
+</td>
+<td align="center" width="33%">
+
+**02**
+
+### Analyze
+
+Identify patterns, relationships, trends, and anomalies.
+
+</td>
+<td align="center" width="33%">
+
+**03**
+
+### Communicate
+
+Turn analytical findings into clear, useful insights.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+My analytical interests include:
+
+- Exploratory Data Analysis (EDA)
+- Missing-value and duplicate detection
+- Data quality and consistency checks
+- Filtering, grouping, aggregation, and segmentation
+- Trend analysis and outlier detection
+- Correlation analysis
+- Dashboard-oriented reporting
+- AI-assisted analytical workflows
+
+I believe analysis is most valuable when it helps someone understand a problem or make a better-informed decision.
+
+---
+
+## `04` — Current direction
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-PYTHON-D8FF3E?style=flat-square&labelColor=10120E" alt="Python"/>
+<img src="https://img.shields.io/badge/02-DATA%20ANALYTICS-D8FF3E?style=flat-square&labelColor=10120E" alt="Data analytics"/>
+<img src="https://img.shields.io/badge/03-BACKEND%20DEVELOPMENT-D8FF3E?style=flat-square&labelColor=10120E" alt="Backend development"/>
+<img src="https://img.shields.io/badge/04-APPLIED%20AI-D8FF3E?style=flat-square&labelColor=10120E" alt="Applied AI"/>
+
+<br/><br/>
+
+I'm continuously strengthening my analytical skills, improving my software engineering foundations, and learning how to build reliable, useful applications.
+
+</div>
+
+---
+
+## `05` — Let's connect
+
+Interested in data analytics, Python, software engineering, or practical AI applications?
+
+I'm open to connecting with people who enjoy learning, sharing ideas, and building useful things.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/talha-dev-pk/">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON-LINKEDIN-D8FF3E?style=for-the-badge&logo=linkedin&logoColor=10120E" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<sub>BUILD WITH PURPOSE. ANALYZE WITH CURIOSITY. KEEP ITERATING.</sub>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=55&section=footer&color=0:202719,100:10120E" alt="Minimal dark footer"/>
+
 </div>
